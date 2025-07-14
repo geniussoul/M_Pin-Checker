@@ -52,14 +52,21 @@ No third-party packages required — pure Python power 💪
 📊 Example Output
 --------------------------
 Enter your 4 or 6 digit mpin : 0711
+
 Enter your DOB (DD-MM-YYYY) : 07-11-2000
+
 Enter your spouse DOB (DD-MM-YYYY) : 09-03-2001
+
 Enter your anniversary date (DD-MM-YYYY) : 12-12-2022
 
 MPIN analysis result
+
 mpin : 0711
+
 reason : ['DEMOGRAPHIC_DOB_SELF']
+
 strength : WEAK
+
 Reason for weakness : ['DEMOGRAPHIC_DOB_SELF']
 
 markdown
